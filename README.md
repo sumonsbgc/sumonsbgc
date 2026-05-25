@@ -88,5 +88,5 @@ I'm a Full Stack Developer with 8+ years of experience building production-grade
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sumonsbgc&color=0e75b6&style=flat" alt="Profile views" />
 </div>
