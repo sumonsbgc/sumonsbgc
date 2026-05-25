@@ -1,0 +1,71 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#1c2128"/>
+  </pattern>
+  <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#58a6ff"/>
+    <stop offset="50%" stop-color="#a371f7"/>
+    <stop offset="100%" stop-color="#f778ba"/>
+  </linearGradient>
+  <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+    <stop offset="25%" stop-color="#58a6ff"/>
+    <stop offset="75%" stop-color="#a371f7"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="38%" cy="55%" r="55%">
+    <stop offset="0%" stop-color="#388bfd" stop-opacity="0.09"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="fade-left" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fade-right" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="clip">
+    <rect width="900" height="230"/>
+  </clipPath>
+</defs>
+
+<g clip-path="url(#clip)">
+  <rect width="900" height="230" fill="#0d1117"/>
+  <rect width="900" height="230" fill="url(#dots)"/>
+  <rect width="900" height="230" fill="url(#glow)"/>
+
+  <!-- Big decorative code tag background -->
+  <text x="-10" y="260" font-family="monospace" font-size="280" fill="#111820" font-weight="900" opacity="0.9">&lt;</text>
+  <text x="630" y="260" font-family="monospace" font-size="280" fill="#111820" font-weight="900" opacity="0.9">/&gt;</text>
+
+  <!-- Fade edges so decorations blend in -->
+  <rect width="200" height="230" fill="url(#fade-left)"/>
+  <rect x="700" width="200" height="230" fill="url(#fade-right)"/>
+
+  <!-- Top accent bar -->
+  <rect y="0" width="900" height="3" fill="url(#line-grad)"/>
+
+  <!-- Hi label -->
+  <text x="62" y="74" font-family="system-ui,-apple-system,BlinkMacSystemFont,sans-serif"
+    font-size="12" fill="#388bfd" font-weight="600" letter-spacing="5">HI THERE, I'M</text>
+
+  <!-- Main name -->
+  <text x="56" y="152" font-family="system-ui,-apple-system,BlinkMacSystemFont,sans-serif"
+    font-size="72" font-weight="800" fill="url(#name-grad)" letter-spacing="-1">Mohammad Sumon</text>
+
+  <!-- Role & details row -->
+  <text x="62" y="193" font-family="system-ui,-apple-system,BlinkMacSystemFont,sans-serif"
+    font-size="15.5" fill="#8b949e" letter-spacing="0.3">
+    <tspan fill="#3fb950">&#9632;</tspan><tspan> Full Stack Developer  </tspan>
+    <tspan fill="#30363d">&#8212;</tspan>
+    <tspan>  Next.js · Laravel · TypeScript · Go  </tspan>
+    <tspan fill="#30363d">&#8212;</tspan>
+    <tspan>  Dhaka, Bangladesh</tspan>
+  </text>
+
+  <!-- Bottom accent bar -->
+  <rect y="227" width="900" height="3" fill="url(#line-grad)"/>
+</g>
+</svg>
