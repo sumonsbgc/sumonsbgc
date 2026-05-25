@@ -26,40 +26,58 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const sumon = {
-  name:       "Mohammad Sumon",
-  role:       "Full Stack Developer",
-  experience: "8+ years",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-
-  currentWork: [
-    "Metro Extended Stay — Hotel & Property Management Systems",
-    "Space Cats — Full Stack Web Applications",
-  ],
-
-  stack: {
-    frontend:  ["Next.js", "React", "TypeScript", "TailwindCSS", "Redux Toolkit"],
-    backend:   ["Laravel", "PHP", "Node.js", "Express", "Golang"],
-    database:  ["MySQL", "PostgreSQL"],
-    cloud:     ["AWS S3", "AWS Lambda", "EC2"],
-    mobile:    ["React Native"],
-  },
-
-  contact: {
-    email:    "sumonsbgc@gmail.com",
-    whatsapp: "+880 1516 120 343",
-    phone:    "+880 1307 129386",
-    linkedin: "linkedin.com/in/mohammadsumon",
-  },
-
-  learning:    ["Golang", "Rust", "Distributed Systems"],
-  passions:    ["Clean Architecture", "Type Safety", "Scalable APIs", "DevOps"],
-
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-};
-```
-
+<svg width="750" height="773" viewBox="0 0 750 773" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip"><rect width="750" height="773" rx="14"/></clipPath>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#181825"/>
+      <stop offset="100%" stop-color="#1e1e2e"/>
+    </linearGradient>
+    <linearGradient id="border-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#cba6f7" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#89b4fa" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#a6e3a1" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="750" height="773" rx="14" fill="url(#border-grad)"/>
+  <rect x="1.5" y="1.5" width="747" height="770" rx="13" fill="#1e1e2e"/>
+  <g clip-path="url(#clip)">
+    <rect width="750" height="773" fill="#1e1e2e"/>
+    <rect width="750" height="48" fill="url(#hg)"/>
+    <line x1="0" y1="48" x2="750" y2="48" stroke="#313244" stroke-width="1"/>
+    <circle cx="24" cy="24" r="6" fill="#f38ba8"/>
+    <circle cx="44" cy="24" r="6" fill="#f9e2af"/>
+    <circle cx="64" cy="24" r="6" fill="#a6e3a1"/>
+    <text x="375" y="29" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#6c7086">sumon.ts</text>
+    <rect x="0" y="62" width="750" height="22" fill="#313244" fill-opacity="0.4"/>
+    <text x="28" y="79" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cba6f7">const</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#89b4fa">sumon</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#89dceb">=</tspan><tspan fill="#cdd6f4"> {</tspan></text>
+    <text x="28" y="101" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">name</tspan><tspan fill="#cdd6f4">:       </tspan><tspan fill="#a6e3a1">"Mohammad Sumon"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="123" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">role</tspan><tspan fill="#cdd6f4">:       </tspan><tspan fill="#a6e3a1">"Full Stack Developer"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="145" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">experience</tspan><tspan fill="#cdd6f4">: </tspan><tspan fill="#a6e3a1">"8+ years"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="167" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">location</tspan><tspan fill="#cdd6f4">:   </tspan><tspan fill="#a6e3a1">"Dhaka, Bangladesh"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="211" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">currentWork</tspan><tspan fill="#cdd6f4">: </tspan><tspan fill="#89dceb">[</tspan></text>
+    <text x="28" y="233" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#a6e3a1">"Metro Extended Stay - Hotel &amp; Property Management"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="255" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#a6e3a1">"Space Cats - Full Stack Web Applications"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="277" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="321" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">stack</tspan><tspan fill="#cdd6f4">: {</tspan></text>
+    <text x="28" y="343" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">frontend</tspan><tspan fill="#cdd6f4">:  </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"Next.js"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"React"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"TypeScript"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"TailwindCSS"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="365" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">backend</tspan><tspan fill="#cdd6f4">:   </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"Laravel"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"PHP"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Node.js"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Golang"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="387" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">database</tspan><tspan fill="#cdd6f4">:  </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"MySQL"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"PostgreSQL"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="409" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">cloud</tspan><tspan fill="#cdd6f4">:     </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"AWS S3"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"AWS Lambda"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"EC2"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="431" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">mobile</tspan><tspan fill="#cdd6f4">:    </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"React Native"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="453" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  },</tspan></text>
+    <text x="28" y="497" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">contact</tspan><tspan fill="#cdd6f4">: {</tspan></text>
+    <text x="28" y="519" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">email</tspan><tspan fill="#cdd6f4">:    </tspan><tspan fill="#a6e3a1">"sumonsbgc@gmail.com"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="541" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">whatsapp</tspan><tspan fill="#cdd6f4">: </tspan><tspan fill="#a6e3a1">"+880 1516 120 343"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="563" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">phone</tspan><tspan fill="#cdd6f4">:    </tspan><tspan fill="#a6e3a1">"+880 1307 129386"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="585" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">    </tspan><tspan fill="#f38ba8">linkedin</tspan><tspan fill="#cdd6f4">: </tspan><tspan fill="#a6e3a1">"linkedin.com/in/mohammadsumon"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="607" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  },</tspan></text>
+    <text x="28" y="651" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">learning</tspan><tspan fill="#cdd6f4">:    </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"Golang"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Rust"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Distributed Systems"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="673" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">passions</tspan><tspan fill="#cdd6f4">:    </tspan><tspan fill="#89dceb">[</tspan><tspan fill="#a6e3a1">"Clean Architecture"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Type Safety"</tspan><tspan fill="#cdd6f4">, </tspan><tspan fill="#a6e3a1">"Scalable APIs"</tspan><tspan fill="#89dceb">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="717" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">  </tspan><tspan fill="#f38ba8">funFact</tspan><tspan fill="#cdd6f4">:     </tspan><tspan fill="#a6e3a1">"I debug with console.log -- not ashamed :)"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+    <text x="28" y="739" font-family="'Courier New',monospace" font-size="13" fill="#cdd6f4"><tspan fill="#cdd6f4">};</tspan></text>
+  </g>
+</svg>
 ---
 
 ## 🚀 What I'm Working On
