@@ -1,79 +1,211 @@
-<svg width="760" height="773" viewBox="0 0 760 773" xmlns="http://www.w3.org/2000/svg">
+<svg width="780" height="773" viewBox="0 0 780 773" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<clipPath id="c"><rect width="760" height="773" rx="14"/></clipPath>
-<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1e2030"/><stop offset="100%" stop-color="#1a1b2e"/></linearGradient>
-<linearGradient id="bdr" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#bb9af7" stop-opacity="0.7"/><stop offset="40%" stop-color="#7dcfff" stop-opacity="0.4"/><stop offset="100%" stop-color="#9ece6a" stop-opacity="0.7"/></linearGradient>
+<clipPath id="c"><rect width="780" height="773" rx="14"/></clipPath>
+<linearGradient id="bdr" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#bb9af7" stop-opacity="0.6"/><stop offset="50%" stop-color="#7dcfff" stop-opacity="0.3"/><stop offset="100%" stop-color="#9ece6a" stop-opacity="0.6"/></linearGradient>
 <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#13141f"/><stop offset="100%" stop-color="#1e2030"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1e2030"/><stop offset="100%" stop-color="#1a1b2e"/></linearGradient>
 </defs>
-<rect width="760" height="773" rx="14" fill="url(#bdr)"/>
+<rect width="780" height="773" rx="14" fill="url(#bdr)"/>
 <g clip-path="url(#c)">
-<rect x="1.5" y="1.5" width="757" height="770" fill="url(#bg)"/>
-<rect width="760" height="48" fill="url(#hg)"/>
-<line x1="0" y1="48" x2="760" y2="48" stroke="#2a2c3e" stroke-width="1"/>
+<rect x="1.5" y="1.5" width="777" height="770" fill="url(#bg)"/>
+<rect width="780" height="48" fill="url(#hg)"/>
+<line x1="0" y1="48" x2="780" y2="48" stroke="#2a2c3e" stroke-width="1"/>
+<line x1="40" y1="48" x2="40" y2="773" stroke="#1e2030" stroke-width="1"/>
 <circle cx="24" cy="24" r="6" fill="#ff5f57"/>
 <circle cx="44" cy="24" r="6" fill="#febc2e"/>
 <circle cx="64" cy="24" r="6" fill="#28c840"/>
-<text x="380" y="29" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#565f89">sumon.ts</text>
-<rect x="680" y="14" width="60" height="20" rx="4" fill="#1e2030"/>
-<text x="710" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#bb9af7">TypeScript</text>
-<rect x="0" y="61" width="760" height="22" fill="#1e2030"/>
-<rect x="0" y="61" width="3" height="22" fill="#bb9af7"/>
-<text x="14" y="79" font-family="'Courier New',monospace" font-size="11" fill="#bb9af7" text-anchor="middle">1</text>
-<text x="42" y="79" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#bb9af7">const</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#7dcfff">sumon</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#89ddff">=</tspan><tspan fill="#c0caf5"> {</tspan></text>
-<text x="14" y="101" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">2</text>
-<text x="42" y="101" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">name</tspan><tspan fill="#c0caf5">:        </tspan><tspan fill="#9ece6a">"Mohammad Sumon"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="123" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">3</text>
-<text x="42" y="123" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">role</tspan><tspan fill="#c0caf5">:        </tspan><tspan fill="#9ece6a">"Full Stack Developer"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="145" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">4</text>
-<text x="42" y="145" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">experience</tspan><tspan fill="#c0caf5">:  </tspan><tspan fill="#9ece6a">"8+ years"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="167" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">5</text>
-<text x="42" y="167" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">location</tspan><tspan fill="#c0caf5">:    </tspan><tspan fill="#9ece6a">"Dhaka, Bangladesh"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="189" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">6</text>
-<text x="14" y="211" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">7</text>
-<text x="42" y="211" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">currentWork</tspan><tspan fill="#c0caf5">: </tspan><tspan fill="#89ddff">[</tspan></text>
-<text x="14" y="233" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">8</text>
-<text x="42" y="233" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#9ece6a">"Metro Extended Stay — Hotel &amp; Property Management"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="255" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">9</text>
-<text x="42" y="255" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#9ece6a">"Space Cats — Full Stack Web Applications"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="277" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">10</text>
-<text x="42" y="277" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="299" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">11</text>
-<text x="14" y="321" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">12</text>
-<text x="42" y="321" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">stack</tspan><tspan fill="#c0caf5">: {</tspan></text>
-<text x="14" y="343" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">13</text>
-<text x="42" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">frontend</tspan><tspan fill="#c0caf5">:  </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"Next.js"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"React"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"TypeScript"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"TailwindCSS"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="365" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">14</text>
-<text x="42" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">backend</tspan><tspan fill="#c0caf5">:   </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"Laravel"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"PHP"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Node.js"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Golang"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="387" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">15</text>
-<text x="42" y="387" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">database</tspan><tspan fill="#c0caf5">:  </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"MySQL"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"PostgreSQL"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="409" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">16</text>
-<text x="42" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">cloud</tspan><tspan fill="#c0caf5">:     </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"AWS S3"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"AWS Lambda"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"EC2"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="431" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">17</text>
-<text x="42" y="431" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">mobile</tspan><tspan fill="#c0caf5">:    </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"React Native"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="453" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">18</text>
-<text x="42" y="453" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  },</tspan></text>
-<text x="14" y="475" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">19</text>
-<text x="14" y="497" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">20</text>
-<text x="42" y="497" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">contact</tspan><tspan fill="#c0caf5">: {</tspan></text>
-<text x="14" y="519" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">21</text>
-<text x="42" y="519" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">email</tspan><tspan fill="#c0caf5">:     </tspan><tspan fill="#9ece6a">"sumonsbgc@gmail.com"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="541" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">22</text>
-<text x="42" y="541" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">whatsapp</tspan><tspan fill="#c0caf5">:  </tspan><tspan fill="#9ece6a">"+880 1516 120 343"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="563" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">23</text>
-<text x="42" y="563" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">phone</tspan><tspan fill="#c0caf5">:     </tspan><tspan fill="#9ece6a">"+880 1307 129386"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="585" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">24</text>
-<text x="42" y="585" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">    </tspan><tspan fill="#e0af68">linkedin</tspan><tspan fill="#c0caf5">:  </tspan><tspan fill="#9ece6a">"linkedin.com/in/mohammadsumon"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="607" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">25</text>
-<text x="42" y="607" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  },</tspan></text>
-<text x="14" y="629" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">26</text>
-<text x="14" y="651" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">27</text>
-<text x="42" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">learning</tspan><tspan fill="#c0caf5">:    </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"Golang"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Rust"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Distributed Systems"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="673" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">28</text>
-<text x="42" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">passions</tspan><tspan fill="#c0caf5">:    </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#9ece6a">"Clean Architecture"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Type Safety"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Scalable APIs"</tspan><tspan fill="#89ddff">]</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="695" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">29</text>
-<text x="14" y="717" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">30</text>
-<text x="42" y="717" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">  </tspan><tspan fill="#e0af68">funFact</tspan><tspan fill="#c0caf5">:     </tspan><tspan fill="#9ece6a">"I debug with console.log -- not ashamed :)"</tspan><tspan fill="#c0caf5">,</tspan></text>
-<text x="14" y="739" font-family="'Courier New',monospace" font-size="11" fill="#2f3354" text-anchor="middle">31</text>
-<text x="42" y="739" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"><tspan fill="#c0caf5">};</tspan></text>
+<text x="390" y="29" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#565f89">sumon.ts</text>
+<rect x="696" y="13" width="76" height="22" rx="4" fill="#1e2030"/>
+<text x="734" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#bb9af7">TypeScript</text>
+<rect x="0" y="64" width="780" height="22" fill="#1e2030" opacity="0.8"/>
+<rect x="1.5" y="64" width="3" height="22" fill="#bb9af7"/>
+<text x="34" y="79" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#bb9af7">1</text>
+<text x="46.0" y="79" font-family="'Courier New',monospace" font-size="13" fill="#bb9af7">const</text>
+<text x="85.0" y="79" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"> </text>
+<text x="92.8" y="79" font-family="'Courier New',monospace" font-size="13" fill="#7dcfff">sumon</text>
+<text x="131.8" y="79" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"> </text>
+<text x="139.6" y="79" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">=</text>
+<text x="147.4" y="79" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"> {</text>
+<text x="34" y="101" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">2</text>
+<text x="46.0" y="101" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="101" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">name</text>
+<text x="92.8" y="101" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="100.6" y="101" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">       </text>
+<text x="155.2" y="101" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Mohammad Sumon"</text>
+<text x="280.0" y="101" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="123" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">3</text>
+<text x="46.0" y="123" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="123" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">role</text>
+<text x="92.8" y="123" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="100.6" y="123" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">       </text>
+<text x="155.2" y="123" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Full Stack Developer"</text>
+<text x="326.8" y="123" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="145" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">4</text>
+<text x="46.0" y="145" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="145" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">experience</text>
+<text x="139.6" y="145" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="147.4" y="145" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5"> </text>
+<text x="155.2" y="145" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"8+ years"</text>
+<text x="233.2" y="145" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="167" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">5</text>
+<text x="46.0" y="167" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="167" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">location</text>
+<text x="124.0" y="167" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="131.8" y="167" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">   </text>
+<text x="155.2" y="167" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Dhaka, Bangladesh"</text>
+<text x="303.4" y="167" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="189" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">6</text>
+<text x="34" y="211" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">7</text>
+<text x="46.0" y="211" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="211" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">currentWork</text>
+<text x="147.4" y="211" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">: </text>
+<text x="163.0" y="211" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="34" y="233" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">8</text>
+<text x="46.0" y="233" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="233" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Metro Extended Stay — Hotel &amp; Property Management"</text>
+<text x="475.0" y="233" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="255" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">9</text>
+<text x="46.0" y="255" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="255" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Space Cats — Full Stack Web Applications"</text>
+<text x="404.8" y="255" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="277" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">10</text>
+<text x="46.0" y="277" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="277" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="69.4" y="277" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="299" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">11</text>
+<text x="34" y="321" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">12</text>
+<text x="46.0" y="321" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="321" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">stack</text>
+<text x="100.6" y="321" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">: {</text>
+<text x="34" y="343" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">13</text>
+<text x="46.0" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="343" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">frontend</text>
+<text x="139.6" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:  </text>
+<text x="163.0" y="343" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="343" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Next.js"</text>
+<text x="241.0" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="256.6" y="343" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"React"</text>
+<text x="311.2" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="326.8" y="343" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"TypeScript"</text>
+<text x="420.4" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="436.0" y="343" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"TailwindCSS"</text>
+<text x="537.4" y="343" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="545.2" y="343" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="365" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">14</text>
+<text x="46.0" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="365" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">backend</text>
+<text x="131.8" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:   </text>
+<text x="163.0" y="365" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="365" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Laravel"</text>
+<text x="241.0" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="256.6" y="365" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"PHP"</text>
+<text x="295.6" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="311.2" y="365" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Node.js"</text>
+<text x="381.4" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="397.0" y="365" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Golang"</text>
+<text x="459.4" y="365" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="467.2" y="365" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="387" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">15</text>
+<text x="46.0" y="387" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="387" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">database</text>
+<text x="139.6" y="387" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:  </text>
+<text x="163.0" y="387" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="387" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"MySQL"</text>
+<text x="225.4" y="387" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="241.0" y="387" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"PostgreSQL"</text>
+<text x="334.6" y="387" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="342.4" y="387" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="409" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">16</text>
+<text x="46.0" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="409" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">cloud</text>
+<text x="116.2" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:     </text>
+<text x="163.0" y="409" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="409" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"AWS S3"</text>
+<text x="233.2" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="248.8" y="409" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"AWS Lambda"</text>
+<text x="342.4" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="358.0" y="409" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"EC2"</text>
+<text x="397.0" y="409" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="404.8" y="409" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="431" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">17</text>
+<text x="46.0" y="431" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="431" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">mobile</text>
+<text x="124.0" y="431" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:    </text>
+<text x="163.0" y="431" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="431" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"React Native"</text>
+<text x="280.0" y="431" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="287.8" y="431" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="453" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">18</text>
+<text x="46.0" y="453" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  },</text>
+<text x="34" y="475" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">19</text>
+<text x="34" y="497" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">20</text>
+<text x="46.0" y="497" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="497" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">contact</text>
+<text x="116.2" y="497" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">: {</text>
+<text x="34" y="519" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">21</text>
+<text x="46.0" y="519" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="519" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">email</text>
+<text x="116.2" y="519" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="124.0" y="519" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">     </text>
+<text x="163.0" y="519" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"sumonsbgc@gmail.com"</text>
+<text x="326.8" y="519" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="541" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">22</text>
+<text x="46.0" y="541" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="541" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">whatsapp</text>
+<text x="139.6" y="541" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">: </text>
+<text x="155.2" y="541" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"+880 1516 120 343"</text>
+<text x="303.4" y="541" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="563" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">23</text>
+<text x="46.0" y="563" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="563" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">phone</text>
+<text x="116.2" y="563" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="124.0" y="563" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">     </text>
+<text x="163.0" y="563" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"+880 1307 129386"</text>
+<text x="303.4" y="563" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="585" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">24</text>
+<text x="46.0" y="585" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="77.2" y="585" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">linkedin</text>
+<text x="139.6" y="585" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">: </text>
+<text x="155.2" y="585" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"linkedin.com/in/mohammadsumon"</text>
+<text x="397.0" y="585" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="607" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">25</text>
+<text x="46.0" y="607" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  },</text>
+<text x="34" y="629" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">26</text>
+<text x="34" y="651" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">27</text>
+<text x="46.0" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="651" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">learning</text>
+<text x="124.0" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="131.8" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="163.0" y="651" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="651" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Golang"</text>
+<text x="233.2" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="248.8" y="651" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Rust"</text>
+<text x="295.6" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="311.2" y="651" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Distributed Systems"</text>
+<text x="475.0" y="651" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="482.8" y="651" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="673" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">28</text>
+<text x="46.0" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="673" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">passions</text>
+<text x="124.0" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="131.8" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">    </text>
+<text x="163.0" y="673" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">[</text>
+<text x="170.8" y="673" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Clean Architecture"</text>
+<text x="326.8" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="342.4" y="673" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Type Safety"</text>
+<text x="443.8" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">, </text>
+<text x="459.4" y="673" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"Scalable APIs"</text>
+<text x="576.4" y="673" font-family="'Courier New',monospace" font-size="13" fill="#89ddff">]</text>
+<text x="584.2" y="673" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="695" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">29</text>
+<text x="34" y="717" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">30</text>
+<text x="46.0" y="717" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">  </text>
+<text x="61.6" y="717" font-family="'Courier New',monospace" font-size="13" fill="#e0af68">funFact</text>
+<text x="116.2" y="717" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">:</text>
+<text x="124.0" y="717" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">     </text>
+<text x="163.0" y="717" font-family="'Courier New',monospace" font-size="13" fill="#9ece6a">"I debug with console.log — not ashamed :)"</text>
+<text x="498.4" y="717" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">,</text>
+<text x="34" y="739" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#565f89">31</text>
+<text x="46.0" y="739" font-family="'Courier New',monospace" font-size="13" fill="#c0caf5">};</text>
 </g>
 </svg>
