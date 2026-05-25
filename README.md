@@ -20,39 +20,9 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-```typescript
-const sumon = {
-  name:        "Mohammad Sumon",
-  role:        "Full Stack Developer",
-  experience:  "8+ years",
-  location:    "Dhaka, Bangladesh 🇧🇩",
-
-  currentWork: [
-    "Metro Extended Stay — Hotel & Property Management Systems",
-    "Space Cats — Full Stack Web Applications",
-  ],
-
-  stack: {
-    frontend:  ["Next.js", "React", "TypeScript", "TailwindCSS", "Redux Toolkit"],
-    backend:   ["Laravel", "PHP", "Node.js", "Express", "Golang"],
-    database:  ["MySQL", "PostgreSQL"],
-    cloud:     ["AWS S3", "AWS Lambda", "EC2"],
-    mobile:    ["React Native"],
-  },
-
-  contact: {
-    email:     "sumonsbgc@gmail.com",
-    whatsapp:  "+880 1516 120 343",
-    phone:     "+880 1307 129386",
-    linkedin:  "linkedin.com/in/mohammadsumon",
-  },
-
-  learning:   ["Golang", "Rust", "Distributed Systems"],
-  passions:   ["Clean Architecture", "Type Safety", "Scalable APIs", "DevOps"],
-
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-};
-```
+<div align="center">
+  <img src="./code-card.svg" alt="About Mohammad Sumon" width="760"/>
+</div>
 
 ---
 
