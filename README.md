@@ -60,9 +60,9 @@ I'm a Full Stack Developer with 8+ years of experience building production-grade
 
 <div align="center">
 
-![Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Sumon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumonsbgc&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonsbgc&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
